@@ -217,6 +217,10 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [SimpleumSafe](https://simpleum.com/en/safe/buy/?utm_source=bf26-boltai) | macOS, iOS, iPadOS | Encrypted file archive for Mac, iPhone and iPad. Local storage, optional sync. Protection that continues when you open a file. | **30% off one-time & first year** · Mac one-time purchase ~~$99.99~~ $69.99 · Mac annual - first year ~~$34.99~~ $24.99 · iPhone/iPad one-time purchase ~~$29.99~~ $20.99 · iPhone/iPad annual - first year ~~$9.99~~ $6.99 · Annual offer: first year only, subject to eligibility. Mac and iPhone/iPad purchased separately. No free trial. No code needed · until Dec 6 |
 | [TinyShield](https://tinyshield.proxyman.com/) | macOS | Monitor app connections and block unwanted apps or domains with a macOS firewall. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | macOS, Windows, Linux | Mac-compatible AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | **20% off** · €1,200 → €960 · Lifetime licence with code **LIFETIME** · until Nov 30 |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | macOS, Windows, Linux | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | **20% off** · €1,200 → €960 · Lifetime licence with code **LIFETIME** · until Nov 30 |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | macOS, Windows, Linux | Mac-compatible kernel exploitation and C2 framework with 100+ LPE exploits and Ring-0 tooling. | **20% off** · €1,200 → €960 · Lifetime licence with code **LIFETIME** · until Nov 30 |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | macOS, Windows, Linux | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | **Black Friday bundle €4,000** · no code · until Nov 30 |
 
 ### Health and Fitness
 
